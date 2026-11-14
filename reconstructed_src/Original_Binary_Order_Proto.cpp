@@ -1,8 +1,8 @@
 // ============================================================================
 // SCARFACE: THE WORLD IS YOURS — April 2006 prototype game.xbe, every function in address order
 // GENERATED from reports/verified_registry.json by portal/tools/registry_outputs.py. Do not edit.
-// PROGRESS: 7,276 of 17,872 functions matched (40.71%). NOT COMPLETE YET.
-// The 10,596 still to do are listed in their place below as "// [TODO] address name (size)"
+// PROGRESS: 7,276 of 17,873 functions matched (40.71%). NOT COMPLETE YET.
+// The 10,597 still to do are listed in their place below as "// [TODO] address name (size)"
 // lines, so you can see what is missing and where; matched ones are the C++ itself.
 // Every [VERIFIED] block compiled byte-for-byte with Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 13.10.3052 for 80x86.
 // Blocks marked 'excerpt' are cut from the named source file and are built from that file;
@@ -165192,6 +165192,7 @@ StatePropWaterCollisionTemplate* StatePropWaterCollisionTemplate::vfunc_01(int a
 
 // [TODO] 0x001B7B30 StatePropWaterCollisionTemplate::vfunc_05 (83 B)
 // [TODO] 0x001B7B90 StatePropWaterCollisionTemplate::vfunc_27 (108 B)
+// [TODO] 0x001B7BCD sub_001B7BCD (29 B)
 // ============================================================================
 // [VERIFIED] StatePropDragTemplate::vfunc_01 (0x001B7C00, 36 B)
 // By: RRutherrfordd (Founder) | Flags: /O2 /Ot /Oy /G6 /Gd /GR /EHsc /Zp4
